@@ -53,8 +53,8 @@ This project is open source and available under the MIT License.
 See the LICENSE file for details.
 
 ## 👨‍💻 Author
-Name : Siddharth Sonawane
+Name : [Siddharth Sonawane]
 
-GitHub: [https://github.com/your-username]
+GitHub: [https://github.com/siddharthsonwane]
 
-LinkedIn: [https://linkedin.com/in/your-profile]
+LinkedIn: [https://www.linkedin.com/in/siddharthsonwane/]
