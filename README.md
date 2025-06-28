@@ -20,7 +20,6 @@ This repository contains clean, modular implementations of core data structures 
 - Searching Algorithms (Binary Search, Linear Search)
 
 ## 🧩 Project Structure
-
 key-datastructure-algorithm/
 ├── stack/
 │ ├── Node.java # Node class for stack
@@ -36,7 +35,6 @@ key-datastructure-algorithm/
 
 ### Compile and Run
 
-```bash
 javac stack/*.java
 java stack.StackRunner
 
