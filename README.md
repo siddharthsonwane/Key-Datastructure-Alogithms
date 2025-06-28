@@ -19,12 +19,13 @@ This repository contains clean, modular implementations of core data structures 
 - Sorting Algorithms (Merge, Quick, etc.)
 - Searching Algorithms (Binary Search, Linear Search)
 
-## 🧩 Project Structure
+## 📁 Project Structure
+
 key-datastructure-algorithm/
 ├── stack/
-│ ├── Node.java # Node class for stack
-│ ├── Stack.java # Stack implementation
-│ └── StackRunner.java # Sample usage and testing
+│   ├── Node.java          # Node class for stack
+│   ├── Stack.java         # Stack implementation
+│   └── StackRunner.java   # Sample usage and testing
 
 ## 🚀 Getting Started
 
