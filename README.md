@@ -39,7 +39,48 @@ key-datastructure-algorithm/
 │   └── StackRunner.java   # Sample usage and testing
 
 ```
+## 🧪 Sample Code
 
+```java
+Stack stack = new Stack(2);
+stack.push(4);
+stack.push(6);
+stack.printStack();
+stack.getTop();
+stack.getHeight();
+stack.pop();
+stack.printStack();
+
+```
+## ✅ Sample Output:
+```
+ -----------------> printStack Method <------------------
+2
+-----------------> getTop Method <------------------
+Top:2
+-----------------> getHeight Method <------------------
+Height : 1
+-----------------> push Method <------------------
+-----------------> push Method <------------------
+-----------------> printStack Method <------------------
+6
+4
+2
+-----------------> getTop Method <------------------
+Top:6
+-----------------> getHeight Method <------------------
+Height : 3
+-----------------> pop Method <------------------
+-----------------> printStack Method <------------------
+4
+2
+```
+## 📝 Explanation:
+Initially the stack has 2
+
+After pushing 4 and 6, the stack becomes: 6 -> 4 -> 2
+
+After popping, 6 is removed, and the stack is now: 4 -> 2
 
 
 
