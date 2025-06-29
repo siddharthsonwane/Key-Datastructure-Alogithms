@@ -2,14 +2,20 @@ package stack;
 
 public class StackRunner {
     public static void main(String[] args) {
-        Stack runnerStack = new Stack(2);
-        runnerStack.printStack();
-        runnerStack.getTop();
-        runnerStack.getHeight();
-        runnerStack.push(4);
-        runnerStack.printStack();
-        runnerStack.pop();
-        runnerStack.printStack();
+        Stack myStack = new Stack(2);   // Creates a stack with initial value 2
 
+        myStack.printStack();
+        myStack.getTop();
+        myStack.getHeight();
+
+        myStack.push(4);
+        myStack.push(6);
+
+        myStack.printStack();
+        myStack.getTop();
+        myStack.getHeight();
+
+        myStack.pop();
+        myStack.printStack();
     }
 }
