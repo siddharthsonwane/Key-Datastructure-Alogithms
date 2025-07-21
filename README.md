@@ -15,13 +15,14 @@ Each component is organized into packages for clarity and scalability.
 ## ✅ Currently Implemented
 
 - Stack (using linked list)
+- Queue (using linked list)
+- LinkedList (Singly)
 
 ---
 
 ## 🛠 Upcoming Implementations
 
-- Queue (Linked List & Array-based)
-- Singly & Doubly Linked Lists
+- Doubly Linked Lists
 - Trees (Binary, BST, etc.)
 - Graphs (Adjacency List, BFS, DFS)
 - Sorting Algorithms (Merge, Quick, etc.)
