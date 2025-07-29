@@ -1,4 +1,4 @@
-package main.arraysstring;
+package main.arraystring;
 
 public  class BestTimeToBuyAndSellStockRunner {
     public static void main(String[] args) {
