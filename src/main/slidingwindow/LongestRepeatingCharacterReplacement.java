@@ -1,4 +1,4 @@
-package main.arraystring;
+package main.slidingwindow;
 
 import java.util.*;
 
